@@ -24,10 +24,10 @@ Technologies Used:
 
 ## Features
 
-🎮 Classic and intuitive gameplay
-💻 Responsive design for desktop and mobile
-🎨 Colorful and attractive design
-🚫 No ads or unnecessary permissions
+- 🎮 Classic and intuitive gameplay
+- 💻 Responsive design for desktop and mobile
+- 🎨 Colorful and attractive design
+- 🚫 No ads or unnecessary permissions
 
 ## Why Play This Game?
 
