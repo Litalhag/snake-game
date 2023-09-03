@@ -4,9 +4,9 @@ import {
   SNAKE_SPEED,
   getSnakeHead,
   snakeIntersection,
-} from './snake.js'
-import { update as updateFood, draw as drawFood } from './food.js'
-import { outsideGrid } from './grid.js'
+} from './modules/snake.js'
+import { update as updateFood, draw as drawFood } from './modules/food.js'
+import { outsideGrid } from './modules/grid.js'
 
 let lastRenderTime = 0
 let gameOver = false
